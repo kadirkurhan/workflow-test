@@ -4,7 +4,20 @@ using GitWorkflow.Controllers;
 public class UnitTest1
 {
     [Fact]
-    public void OK_WhenReturnOdd_GetEndpoint()
+    public void OK_WhenParameterPassEven_ShouldReturnEven_GetEndpoint()
+    {
+        // Arrange
+        var controller = new TestController();
+
+        // Aspect
+        var response = controller.Get(10);
+
+        // Assert
+        Assert.Equal("even", response);
+    }
+
+    [Fact]
+    public void OK_WhenParameterPassOdd_ShouldReturnOdd_GetEndpoint()
     {
         // Arrange
         var controller = new TestController();
@@ -13,6 +26,6 @@ public class UnitTest1
         var response = controller.Get(1);
 
         // Assert
-        Assert.Equal("even", response);
+        Assert.Equal("odd", response);
     }
 }
