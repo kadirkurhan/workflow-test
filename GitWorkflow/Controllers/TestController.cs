@@ -15,10 +15,10 @@ public class TestController : ControllerBase
     {
         if(request % 2 == 0)
         {
-            return "odd";
+            return "even";
         }
 
-        return "even";
+        return "odd";
     }
 }
 
