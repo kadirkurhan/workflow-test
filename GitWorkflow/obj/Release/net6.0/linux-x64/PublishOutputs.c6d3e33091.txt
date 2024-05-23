@@ -1,0 +1,11 @@
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/GitWorkflow
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/appsettings.json
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/GitWorkflow.dll
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/GitWorkflow.deps.json
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/GitWorkflow.runtimeconfig.json
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/GitWorkflow.pdb
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
