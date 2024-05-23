@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{40B40135-47E0-4BF6-A275-85494067325E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GitWorkflow PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
