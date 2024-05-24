@@ -15,12 +15,25 @@ public class TestController : ControllerBase
     {
         if(request % 2 == 0)
         {
-            return "even";
+            return "even ";
         }
 
         return "odd";
     }
 
+    [HttpGet("Divide")]
+    public int DivideByParameter(int param)
+    {
+        try
+        {
+            return 10 / param;
+        }
+        catch (Exception)
+        {
+            throw new Exception();
+        }
+        
+    }
 
     [HttpGet]
     public string Get()

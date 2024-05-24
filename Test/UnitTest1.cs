@@ -28,4 +28,15 @@ public class UnitTest1
         // Assert
         Assert.Equal("odd", response);
     }
+
+    [Fact]
+    public void OK_WhenParameterPassZero_ShouldReturnException_DivideEndpoint()
+    {
+        // Arrange
+        var controller = new TestController();
+
+        // Aspect
+        // Assert
+        Assert.Throws<DivideByZeroException>(() => controller.DivideByParameter(0));
+    }
 }
