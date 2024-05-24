@@ -15,7 +15,7 @@ public class TestController : ControllerBase
     {
         if(request % 2 == 0)
         {
-            return "even ";
+            return "even";
         }
 
         return "odd";
@@ -27,6 +27,10 @@ public class TestController : ControllerBase
         try
         {
             return 10 / param;
+        }
+        catch (DivideByZeroException)
+        {
+            throw;
         }
         catch (Exception)
         {
