@@ -10,7 +10,7 @@ public class UnitTest1
         var controller = new TestController();
 
         // Aspect
-        var response = controller.Get(10);
+        var response = controller.IsOddOrEven(10);
 
         // Assert
         Assert.Equal("even", response);
@@ -23,7 +23,7 @@ public class UnitTest1
         var controller = new TestController();
 
         // Aspect
-        var response = controller.Get(1);
+        var response = controller.IsOddOrEven(1);
 
         // Assert
         Assert.Equal("odd", response);
