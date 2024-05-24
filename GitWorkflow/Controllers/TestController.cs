@@ -10,8 +10,8 @@ public class TestController : ControllerBase
     {
     }
 
-    [HttpGet]
-    public string Get(int request)
+    [HttpGet("Current")]
+    public string IsOddOrEven(int request)
     {
         if(request % 2 == 0)
         {
@@ -20,5 +20,13 @@ public class TestController : ControllerBase
 
         return "odd";
     }
+
+
+    [HttpGet]
+    public string Get()
+    {
+        return "Hello World";
+    }
+
 }
 

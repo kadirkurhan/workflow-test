@@ -1,16 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "pgfhAsvV7sJqLwbCAALOEm9tT7u+pR/xPhCAszHU7jCgX2bdjL8yJTDBnNiHFO5aEQf4Jk8OGeCBUDGmIYThog==",
+  "dgSpecHash": "LeIi0tsGZJyvIDKaxjaIGPqjt+x+ykKZeAu2IyvblpXL3iWwtB3TEV54Vi85nOafO7OHU4QWFx/EnI6HFc5BSA==",
   "success": true,
-  "projectFilePath": "/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/GitWorkflow.csproj",
+  "projectFilePath": "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\GitWorkflow\\GitWorkflow.csproj",
   "expectedPackageFiles": [
-    "/Users/kadirkurhan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/kadirkurhan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/kadirkurhan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "/Users/kadirkurhan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "/Users/kadirkurhan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/kadirkurhan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
-    "/Users/kadirkurhan/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
+    "C:\\Users\\kadir.kurhan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kadir.kurhan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kadir.kurhan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kadir.kurhan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kadir.kurhan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kadir.kurhan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }

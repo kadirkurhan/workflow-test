@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kadirkurhan/Projects/medium-net/git-workflow/Test/Test.csproj": {}
+    "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\Test\\Test.csproj": {}
   },
   "projects": {
-    "/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/GitWorkflow.csproj": {
+    "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\GitWorkflow\\GitWorkflow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/GitWorkflow.csproj",
+        "projectUniqueName": "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\GitWorkflow\\GitWorkflow.csproj",
         "projectName": "GitWorkflow",
-        "projectPath": "/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/GitWorkflow.csproj",
-        "packagesPath": "/Users/kadirkurhan/.nuget/packages/",
-        "outputPath": "/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/obj/",
+        "projectPath": "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\GitWorkflow\\GitWorkflow.csproj",
+        "packagesPath": "C:\\Users\\kadir.kurhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\GitWorkflow\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/kadirkurhan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kadir.kurhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,12 +60,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.16, 6.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -69,39 +68,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kadirkurhan/Projects/medium-net/git-workflow/Test/Test.csproj": {
+    "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kadirkurhan/Projects/medium-net/git-workflow/Test/Test.csproj",
+        "projectUniqueName": "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "/Users/kadirkurhan/Projects/medium-net/git-workflow/Test/Test.csproj",
-        "packagesPath": "/Users/kadirkurhan/.nuget/packages/",
-        "outputPath": "/Users/kadirkurhan/Projects/medium-net/git-workflow/Test/obj/",
+        "projectPath": "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\kadir.kurhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\Test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/kadirkurhan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kadir.kurhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/GitWorkflow.csproj": {
-                "projectPath": "/Users/kadirkurhan/Projects/medium-net/git-workflow/GitWorkflow/GitWorkflow.csproj"
+              "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\GitWorkflow\\GitWorkflow.csproj": {
+                "projectPath": "C:\\Users\\kadir.kurhan\\Desktop\\Git\\Workflow\\workflow-test\\GitWorkflow\\GitWorkflow.csproj"
               }
             }
           }
@@ -153,12 +152,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
