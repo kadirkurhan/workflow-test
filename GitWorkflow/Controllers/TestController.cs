@@ -13,7 +13,7 @@ public class TestController : ControllerBase
     [HttpGet("Current")]
     public string IsOddOrEven(int request)
     {
-        if(request % 2 != 0)
+        if(request % 2 == 0)
         {
             return "even";
         }
